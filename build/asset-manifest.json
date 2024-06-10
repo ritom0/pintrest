@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pintrest/static/css/main.e6c13ad2.css",
+    "main.js": "/pintrest/static/js/main.33160350.js",
+    "static/js/488.70b4a4de.chunk.js": "/pintrest/static/js/488.70b4a4de.chunk.js",
+    "index.html": "/pintrest/index.html",
+    "main.e6c13ad2.css.map": "/pintrest/static/css/main.e6c13ad2.css.map",
+    "main.33160350.js.map": "/pintrest/static/js/main.33160350.js.map",
+    "488.70b4a4de.chunk.js.map": "/pintrest/static/js/488.70b4a4de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.33160350.js"
+  ]
+}
