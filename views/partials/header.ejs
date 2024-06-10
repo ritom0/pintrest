@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link
+    href="https://cdn.jsdelivr.net/npm/remixicon@4.2.0/fonts/remixicon.css"
+    rel="stylesheet"
+/>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+</head>
+<body>
+  <% if(nav === true){ %>
+    <div class="w-full px-10 py-2 items-center flex justify-between bg-zinc-800 text-white">
+      <h3>Pintrest</h3>
+      <div class="flex gap-10 items-center text-white">
+        <a href="/profile">profile</a><a href="/feed">Feed</a><a class="px-3 py-2 bg-red-700 text-white rounded-lg" href="/logout">logout</a>
+      </div>
+    </div>
+    <% } %>
+ 
